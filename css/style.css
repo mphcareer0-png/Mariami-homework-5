@@ -1,0 +1,31 @@
+
+.container-1{
+width:1z;
+display: flex;
+height: 178px;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}  
+
+.title1{
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.title2{
+    font-size: 54px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.paragraph{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
