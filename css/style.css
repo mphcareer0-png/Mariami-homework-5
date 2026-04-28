@@ -25,7 +25,8 @@ flex-direction: column;
 }
 .paragraph{
     font-size: 20px;
-    font-family: "Inter", sans-serif;
+    max-width: 700px;
+   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
@@ -80,4 +81,67 @@ padding-top: 48px;
 .insta{
     padding-right: 6px;
     padding-left: 6px;
+}
+/* footer section */
+.footer-element{
+    background-color: #53535354;
+}
+.footer-block{
+    width: 1128px;
+    padding: 108px 148px 129px 164px;
+     margin: auto;
+     display: flex;
+     align-items: flex-start;
+     justify-content: space-between;
+     
+}
+
+.footer-child{
+    width: 318.05px;
+    margin-right: 73.05px;
+}  
+
+.footer-child2{
+    width: 136px;
+    margin-right: 200px;
+}
+.footer-child3{
+    width: 199px;  
+    margin-right: 94px;
+}
+.footer-child4{
+    width: 107px;
+   
+
+    
+}
+.last-caption{
+    font-size: 14px;
+    margin-top: 32px;
+    margin-bottom: 30px;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+.descr1{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin-bottom: 71px;
+}
+.footer-li{
+    margin-bottom: 30px;
+}
+.blue-li{
+     font-size: 14px;
+    background-color: #054A68;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 16px 14px 16px;
 }
